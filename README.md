@@ -11,7 +11,7 @@ Useful resources to study
 + **[Github Branching model](https://nvie.com/posts/a-successful-git-branching-model/)**: An useful example of a github flow model.
 + **[How to write tests](http://misko.hevery.com/code-reviewers-guide/)**: Good practices to write testable code.
 + **[Electronic Signature Types](https://blog.signaturit.com/en/simple-e-signature-vs-advanced-e-signature-main-aspects-european-regulation)**: The differences between simple, advanced and qualified electronic signature.
-
++ **[API Gateway Pattern](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern)**: Useful api gateway pattern
 
 
 ## News, Articles and Blogs
