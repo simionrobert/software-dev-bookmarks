@@ -13,7 +13,7 @@ Useful resources to study
 + **[How to write tests](http://misko.hevery.com/code-reviewers-guide/)**: Good practices to write testable code.
 + **[Electronic Signature Types](https://blog.signaturit.com/en/simple-e-signature-vs-advanced-e-signature-main-aspects-european-regulation)**: The differences between simple, advanced and qualified electronic signature.
 + **[API Gateway Pattern](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern)**: Useful api gateway pattern
-
++ **[Angular Architecture Patterns](https://netmedia.io/dev/angular-architecture-patterns-high-level-project-architecture_5589)**: Useful Angular Application Pattern
 
 ## News, Articles and Blogs
 
