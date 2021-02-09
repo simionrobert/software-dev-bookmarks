@@ -8,6 +8,7 @@ Useful resources to study
 
 + **[How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)**: Very useful and detailed description of how a browser works
 + **[Web Fundamentals](https://developers.google.com/web/fundamentals)**: All the information you need to be a professional in web dev.
++ **[Web Caching Best practices](https://jakearchibald.com/2016/caching-best-practices/)**: Caching best practices & max-age gotchas.
 + **[Github Branching model](https://nvie.com/posts/a-successful-git-branching-model/)**: An useful example of a github flow model.
 + **[Incremental Github Branching model](https://blog.logrocket.com/the-git-workflow-you-need-how-to-deal-with-multiple-teams-in-a-single-repository-faf5bb17a6e4/)**: An upgraded/more complex version of a github flow model.
 + **[How to write tests](http://misko.hevery.com/code-reviewers-guide/)**: Good practices to write testable code.
@@ -15,6 +16,7 @@ Useful resources to study
 + **[API Gateway Pattern](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern)**: Useful api gateway pattern
 + **[Angular Architecture Patterns](https://netmedia.io/dev/angular-architecture-patterns-high-level-project-architecture_5589)**: Useful Angular Application Pattern
 + **[Angular Useful Tips](https://blog.strongbrew.io/)**: Useful Angular Tips
++ **[Angular Service Worker Stack](https://blog.angular-university.io/service-workers/)**: Angular PWA Series
 
 ## News, Articles and Blogs
 
