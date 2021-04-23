@@ -29,7 +29,8 @@ The outward or visible aspect of a website.
 A list of web conferences
 
 + **[Google Events](https://developers.google.com/events)**: A list of google events.
-
++ **[QCon](https://qconferences.com/)**: QCon Conferences provided by InfoQ about software architecture domain
++ 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
