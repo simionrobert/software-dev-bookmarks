@@ -1,6 +1,6 @@
 # FullStack Development Bookmarks
 
-**Manually curated collection of resources for full stack web developers.**
+**Manually curated collection of resources for full stack web developers and software architecture**
 
 ## Web Fundamentals
 
