@@ -17,6 +17,7 @@ Useful resources to study
 + **[Angular Architecture Patterns](https://netmedia.io/dev/angular-architecture-patterns-high-level-project-architecture_5589)**: Useful Angular Application Pattern
 + **[Angular Useful Tips](https://blog.strongbrew.io/)**: Useful Angular Tips
 + **[Angular Service Worker Stack](https://blog.angular-university.io/service-workers/)**: Angular PWA Series
++ **[OAuth and OpenID Connect](https://oauth.net/articles/authentication/)**: OAuth 2.0 vs OpenID Connect. User authentication and authorization, philosophy perspective. 
 
 ## News, Articles and Blogs
 
