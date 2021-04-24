@@ -17,7 +17,7 @@ Useful resources to study
 + **[Angular Architecture Patterns](https://netmedia.io/dev/angular-architecture-patterns-high-level-project-architecture_5589)**: Useful Angular Application Pattern
 + **[Angular Useful Tips](https://blog.strongbrew.io/)**: Useful Angular Tips
 + **[Angular Service Worker Stack](https://blog.angular-university.io/service-workers/)**: Angular PWA Series
-+ **[OAuth and OpenID Connect](https://oauth.net/articles/authentication/)**: Authentication build on top of OAuth 2.0 and the benefits of adding OpendID Connect for authentication instead of manual code. 
++ **[OAuth and OpenID Connect](https://oauth.net/articles/authentication/)**: Authentication (OpenID Connect) vs Authorisation (OAuth 2.0). Why the authentication matters more than you think. 
 
 ## News, Articles and Blogs
 
