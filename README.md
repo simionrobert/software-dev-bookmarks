@@ -36,6 +36,7 @@ A list of web conferences
 + **[NDC Conferences](https://ndcconferences.com/)**: Events for software developers
 + **[Google Events](https://developers.google.com/events)**: A list of google events.
 + **[DDD Europe](https://dddeurope.com/)**: DDD Europe events.
++ **[Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)**: How to model reality into code.
 
 ## License
 
