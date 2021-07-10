@@ -35,6 +35,7 @@ A list of web conferences
 + **[QCon](https://qconferences.com/)**: QCon Conferences provided by InfoQ about software architecture domain
 + **[NDC Conferences](https://ndcconferences.com/)**: Events for software developers
 + **[Google Events](https://developers.google.com/events)**: A list of google events.
++ **[DDD Europe](https://dddeurope.com/)**: DDD Europe events.
 
 ## License
 
