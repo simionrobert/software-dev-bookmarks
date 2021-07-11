@@ -21,7 +21,17 @@ Useful resources to study
 + **[Clean Architecture and DDD](https://github.com/Sairyss/domain-driven-hexagon)**: Recommendations on how to design software applications.
 + **[Domain Driven Design](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)**: Recommendations on how to think about models and develop with DDD patterns.
 + **[Microsoft Microservices Architecture ebook](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf)**: Recommendations on how to develop microservices using CQRS, Event Sourcing and Clean Architecture patterns.
++ **[Strengthening your domain](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)**
++  
 
+## Videous and Conferences
++ **[DDD and Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=sFCgXH7DwxM&t=2266s)**: InfoQ DDD and Microservices: At Last, Some Boundaries!
++ **[Keynote - Udi Dahan - DDD Europe 2020](https://www.youtube.com/watch?v=-iuMjjKQnhg&t=3281s)**
++ **[DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)**
++ **[DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)**
+ 
+ 
+ 
 ## News, Articles and Blogs
 
 The outward or visible aspect of a website.
