@@ -22,7 +22,8 @@ Useful resources to study
 + **[Domain Driven Design](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)**: Recommendations on how to think about models and develop with DDD patterns.
 + **[Microsoft Microservices Architecture ebook](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf)**: Recommendations on how to develop microservices using CQRS, Event Sourcing and Clean Architecture patterns.
 + **[Strengthening your domain](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)**
-
++ **[DDD Notions](https://blog.sapiensworks.com/tags.html)**: DDD notions explained 
++ 
 ## Videous and Conferences
 + **[DDD and Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=sFCgXH7DwxM&t=2266s)**: InfoQ DDD and Microservices: At Last, Some Boundaries!
 + **[Keynote - Udi Dahan - DDD Europe 2020](https://www.youtube.com/watch?v=-iuMjjKQnhg&t=3281s)**
