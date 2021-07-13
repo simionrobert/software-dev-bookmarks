@@ -29,7 +29,7 @@ Useful resources to study
 + **[Keynote - Udi Dahan - DDD Europe 2020](https://www.youtube.com/watch?v=-iuMjjKQnhg&t=3281s)**
 + **[DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)**
 + **[DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)**
- 
++ **[Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)**: How to model reality into code.
  
 ## News, Articles and Blogs
 
@@ -45,7 +45,7 @@ A list of web conferences
 + **[NDC Conferences](https://ndcconferences.com/)**: Events for software developers
 + **[Google Events](https://developers.google.com/events)**: A list of google events.
 + **[DDD Europe](https://dddeurope.com/)**: DDD Europe events.
-+ **[Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)**: How to model reality into code.
+
 
 ## License
 
