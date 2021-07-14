@@ -23,6 +23,8 @@ Useful resources to study
 + **[Microsoft Microservices Architecture ebook](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf)**: Recommendations on how to develop microservices using CQRS, Event Sourcing and Clean Architecture patterns.
 + **[Aggregates in DDD](https://gedgei.wordpress.com/2016/06/10/does-ddd-promote-large-aggregates/)**
 + **[DDD Notions](https://blog.sapiensworks.com/tags.html)**: DDD notions explained 
++ **[Entities vs Aggregates](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)**: The relations between Entities and Aggregates
+
 
 ## Videous and Conferences
 + **[DDD and Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=sFCgXH7DwxM&t=2266s)**: InfoQ DDD and Microservices: At Last, Some Boundaries!
