@@ -19,9 +19,9 @@ Useful resources to study
 + **[API Gateway Pattern](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern)**: Useful api gateway pattern
 + **[Angular Architecture Patterns](https://netmedia.io/dev/angular-architecture-patterns-high-level-project-architecture_5589)**: Useful Angular Application Pattern
 + **[Clean Architecture and DDD](https://github.com/Sairyss/domain-driven-hexagon)**: Recommendations on how to design software applications.
-+ **[Domain Driven Design](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)**: Recommendations on how to think about models and develop with DDD patterns.
++ **[Strengthening your domain](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)**: Recommendations on how to think about models and develop with DDD patterns.
 + **[Microsoft Microservices Architecture ebook](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf)**: Recommendations on how to develop microservices using CQRS, Event Sourcing and Clean Architecture patterns.
-+ **[Strengthening your domain](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)**
++ **[Aggregates in DDD](https://gedgei.wordpress.com/2016/06/10/does-ddd-promote-large-aggregates/)**
 + **[DDD Notions](https://blog.sapiensworks.com/tags.html)**: DDD notions explained 
 
 ## Videous and Conferences
