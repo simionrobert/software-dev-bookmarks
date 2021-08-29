@@ -24,6 +24,7 @@ Useful resources to study
 + **[Aggregates in DDD](https://gedgei.wordpress.com/2016/06/10/does-ddd-promote-large-aggregates/)**
 + **[DDD Notions](https://blog.sapiensworks.com/tags.html)**: DDD notions explained 
 + **[Entities vs Aggregates](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)**: The relations between Entities and Aggregates
++ **[Web design articles](https://xd.adobe.com/ideas/principles/web-design/)**: What is web design? Articles about web design
 
 
 ## Videous and Conferences
