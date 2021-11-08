@@ -26,6 +26,7 @@ Useful resources to study
 + **[Entities vs Aggregates](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)**: The relations between Entities and Aggregates
 + **[Web design articles](https://xd.adobe.com/ideas/principles/web-design/)**: What is web design? Articles about web design
 + **[SOA and ESB](https://developer.ibm.com/articles/cl-lightweight-integration-1/)**: The fate of ESB and differences between SOA and Microservices
++ **[Product Flow Explained by Gitlab](https://about.gitlab.com/handbook/product-development-flow/)**
 
 ## Videous and Conferences
 + **[DDD and Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=sFCgXH7DwxM&t=2266s)**: InfoQ DDD and Microservices: At Last, Some Boundaries!
