@@ -27,14 +27,16 @@ Useful resources to study
 + **[Web design articles](https://xd.adobe.com/ideas/principles/web-design/)**: What is web design? Articles about web design
 + **[SOA and ESB](https://developer.ibm.com/articles/cl-lightweight-integration-1/)**: The fate of ESB and differences between SOA and Microservices
 + **[Product Flow Explained by Gitlab](https://about.gitlab.com/handbook/product-development-flow/)**
-
++ **[Project Management Guidelines Explained by Gitlab](https://about.gitlab.com/handbook/marketing/project-management-guidelines/)**
+ 
+ 
 ## Videous and Conferences
 + **[DDD and Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=sFCgXH7DwxM&t=2266s)**: InfoQ DDD and Microservices: At Last, Some Boundaries!
 + **[Keynote - Udi Dahan - DDD Europe 2020](https://www.youtube.com/watch?v=-iuMjjKQnhg&t=3281s)**
 + **[DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)**
 + **[DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)**
 + **[Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)**: How to model reality into code.
- 
+
 ## News, Articles and Blogs
 
 The outward or visible aspect of a website.
