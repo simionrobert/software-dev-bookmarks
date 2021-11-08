@@ -28,7 +28,8 @@ Useful resources to study
 + **[SOA and ESB](https://developer.ibm.com/articles/cl-lightweight-integration-1/)**: The fate of ESB and differences between SOA and Microservices
 + **[Product Flow Explained by Gitlab](https://about.gitlab.com/handbook/product-development-flow/)**
 + **[Project Management Guidelines Explained by Gitlab](https://about.gitlab.com/handbook/marketing/project-management-guidelines/)**
- 
++ **[Direct Responsible Individual](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/)**: What/Who is DRI?
+
  
 ## Videous and Conferences
 + **[DDD and Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=sFCgXH7DwxM&t=2266s)**: InfoQ DDD and Microservices: At Last, Some Boundaries!
