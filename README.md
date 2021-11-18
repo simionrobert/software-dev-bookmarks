@@ -8,6 +8,7 @@ Useful resources to study
 
 + **[How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)**: Very useful and detailed description of how a browser works
 + **[Web Fundamentals](https://developers.google.com/web/fundamentals)**: All the information you need to be a professional in web dev.
++ **[Google's New Web Learning Website](https://web.dev/learn/)**: All the information you need to be a professional in frontend web dev.
 + **[Web Caching Best practices](https://jakearchibald.com/2016/caching-best-practices/)**: Caching best practices & max-age gotchas.
 + **[Angular Useful Tips](https://blog.strongbrew.io/)**: Useful Angular Tips
 + **[Angular Service Worker Stack](https://blog.angular-university.io/service-workers/)**: Angular PWA Series
