@@ -30,7 +30,7 @@ Useful resources to study
 + **[Product Flow Explained by Gitlab](https://about.gitlab.com/handbook/product-development-flow/)**
 + **[Project Management Guidelines Explained by Gitlab](https://about.gitlab.com/handbook/marketing/project-management-guidelines/)**
 + **[Direct Responsible Individual](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/)**: What/Who is DRI?
-
++ **[Database Explain Plan](https://oracle.readthedocs.io/en/latest/sql/plans/explain-plan.html)**: Description of Oracle Explain Plan
  
 ## Videous and Conferences
 + **[DDD and Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=sFCgXH7DwxM&t=2266s)**: InfoQ DDD and Microservices: At Last, Some Boundaries!
