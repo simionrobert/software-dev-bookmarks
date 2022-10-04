@@ -32,7 +32,7 @@ Useful resources to study
 + **[Direct Responsible Individual](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/)**: What/Who is DRI?
 + **[Database Explain Plan](https://oracle.readthedocs.io/en/latest/sql/plans/explain-plan.html)**: Description of Oracle Explain Plan
 + **[DSS Framework](https://ec.europa.eu/digital-building-blocks/DSS/webapp-demo/doc/dss-documentation.html#_integration_instructions)**: EU DSS Framework Documentation
-+ **[Q&A Document Signing Process](https://ec.europa.eu/digital-building-blocks/wikis/display/ESIGKB/)**: Questions and answers related to document signing process
++ **[Q&A Document Signing Process](https://ec.europa.eu/digital-building-blocks/wikis/display/ESIGKB/Troubleshooting+articles)**: Questions and answers related to document signing process
 
 
 ## Videous and Conferences
