@@ -34,6 +34,7 @@ Useful resources to study
 + **[DSS Framework](https://ec.europa.eu/digital-building-blocks/DSS/webapp-demo/doc/dss-documentation.html#_integration_instructions)**: EU DSS Framework Documentation
 + **[Q&A Document Signing Process](https://ec.europa.eu/digital-building-blocks/wikis/display/ESIGKB/Troubleshooting+articles)**: Questions and answers related to document signing process
 + **[IRA Design Illustrations](https://iradesign.io/)**: Illustrations for web design
++ **[D3js Tutorials](https://www.dashingd3js.com/)**: Simple and from scratch operations for svg operations and D3js graphs
 
 
 ## Videous and Conferences
