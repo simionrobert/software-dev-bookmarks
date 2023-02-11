@@ -43,7 +43,7 @@ Useful resources to study
 + **[DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)**
 + **[DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)**
 + **[Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)**: How to model reality into code.
-
++ **[Software Design and Development](https://sddconf.com/)**
 ## News, Articles and Blogs
 
 The outward or visible aspect of a website.
