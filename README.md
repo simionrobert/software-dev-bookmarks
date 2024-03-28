@@ -35,7 +35,7 @@ Useful resources to study
 + **[Q&A Document Signing Process](https://ec.europa.eu/digital-building-blocks/wikis/display/ESIGKB/Troubleshooting+articles)**: Questions and answers related to document signing process
 + **[IRA Design Illustrations](https://iradesign.io/)**: Illustrations for web design
 + **[D3js Tutorials](https://www.dashingd3js.com/)**: Simple and from scratch operations for svg operations and D3js graphs
-
++ **[ETSI ESI Presentaions]([https://www.dashingd3js.com/](https://www.etsi.org/esi-training))**: About Digital Signatures and PKI
 
 ## Videous and Conferences
 + **[DDD and Microservices: At Last, Some Boundaries!](https://www.youtube.com/watch?v=sFCgXH7DwxM&t=2266s)**: InfoQ DDD and Microservices: At Last, Some Boundaries!
